@@ -1,4 +1,4 @@
-### Working with RESTful APIs in Flutter
+### Working with Restful APIs in Flutter
 
 ---
 
